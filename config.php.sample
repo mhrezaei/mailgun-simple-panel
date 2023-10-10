@@ -1,0 +1,12 @@
+<?php
+
+// Mailgun Domain
+define('MAILGUN_DOMAIN', 'sample.com');
+
+// Mailgun API Key
+define('MAILGUN_API_KEY', 'sample-token');
+
+// Email sending interval in seconds (e.g., 20 seconds)
+define('EMAIL_SENDING_INTERVAL', 20);
+
+?>
